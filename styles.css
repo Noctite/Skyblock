@@ -12,7 +12,7 @@
 }
 
 .menuselect:hover {
-    background-color: lightsalmon;
+    background-color: clear;
 }
 
 hr {
@@ -34,4 +34,5 @@ hr {
     border: 2px solid black;
     border-collapse: collapse;
 }
+
 
